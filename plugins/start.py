@@ -66,7 +66,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Developer", url="https://t.me/ask_admin01")
+                        "DEVELOPER", url="https://t.me/ask_admin01")
                 ]
             ]
         ),
