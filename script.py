@@ -33,7 +33,7 @@ For More Details Press /help
 <b>© @m2botz</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Extractor Bot</b>
 
 ⭕️<b>Creater :</b> @m2botz    
 
